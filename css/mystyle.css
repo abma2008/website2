@@ -1,0 +1,54 @@
+
+#date1{
+    background-color:gray;
+    color:white;
+    height:150px;
+    
+
+    
+}
+#date2{
+    background-color:gray;
+    color:white;
+    height:150px;
+
+}
+#date3{
+    background-color:gray;
+    color:white;
+    height:150px;
+}
+#date4{
+    background-color:gray;
+    color:white;
+    height:150px;
+}
+#head-right{
+    background-color:black;
+    text-align:center;
+    color:yellow;
+    height:100px;
+}
+#head-left{
+background-color:black;
+    
+    
+}
+#body1{
+    background-color:rgb(129, 129, 64);
+}
+#body2{
+    background-color:white;
+    
+}
+
+a:hover{
+    color:red;
+
+}
+#footer{
+    background-color:black;
+    color:yellow;
+    text-align:center;
+    height:100px;
+}
