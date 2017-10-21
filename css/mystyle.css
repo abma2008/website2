@@ -35,20 +35,33 @@ background-color:black;
     
 }
 #body1{
-    background-color:rgb(129, 129, 64);
+    background-color:white;
 }
 #body2{
     background-color:white;
     
 }
 
-a:hover{
-    color:red;
-
+a{
+    text-decoration:none;
+    padding: 5px 5px;
+    margin: 2px;
 }
+
+a:hover{
+    background-color:yellow;
+    color:brown;
+    text-decoration:unset;
+}
+a:active{
+    font-weight:bold;
+}
+.btn{
+    width: 300px;
+}
+
 #footer{
     background-color:black;
     color:yellow;
-    text-align:center;
     height:100px;
 }
