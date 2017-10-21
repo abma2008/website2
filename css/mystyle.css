@@ -56,6 +56,9 @@ a:hover{
 a:active{
     font-weight:bold;
 }
+.btn{
+    width: 300px;
+}
 
 #footer{
     background-color:black;
